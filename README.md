@@ -7,7 +7,4 @@
 - 📫 How to reach me: martinfarres@gmail.com
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MartinFarres&show_icons=true&locale=en&layout=compact" alt="francoyudica" /></p>
-
-
 
