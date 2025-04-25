@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martin Farres</h1>
 <h3 align="center">A hardworking Developer from Argentina studying Computer Science</h3>
 
-- 🔭 I’m currently working on **mobile App "Partidito"**
-
-- 🌱 I’m currently learning **about DevOps**
-
 - 👯 I’m looking to collaborate on **any proyect that sparks my interest**
 
 - 📫 How to reach me **martin.farres@gmail.com**
